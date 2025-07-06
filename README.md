@@ -1,6 +1,7 @@
 # Shopify-Analysis
 🛍️ Shopify Sales &amp; Customers Funnel Report This Power BI dashboard provides a comprehensive analysis of Shopify sales performance and customer behavior. It visualizes key performance indicators (KPIs), regional sales distribution, customer purchase patterns, and payment method insights to support data-driven decision-making.
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/1e72537f-bada-4d2c-b86c-539309f37f9e" />
+\n
 STEPS IN PROJECT:
 Requirement Gathering/ Business Requirements
 Data Walkthrough
